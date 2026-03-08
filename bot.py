@@ -5,7 +5,7 @@ import cv2
 import os
 
 # Replace 'YOUR_DISCORD_BOT_TOKEN' with your actual bot token
-DISCORD_BOT_TOKEN = 'MTMyMzcxMjkwMjIxMjg3ODM4OA.GozJtB.Z91i3X25z_6SzpZic2zPyxbToX5KPynPIQS6_s'
+DISCORD_BOT_TOKEN = 'MTMyMzcxMjkwMjIxMjg3ODM4OA.GZLMIn.vTLMPGS2PQf0cm_4J3MrjgvVunZjik76S3VyMg'
 
 # Replace 'YOUR_DISCORD_WEBHOOK_URL' with your actual Discord webhook URL
 DISCORD_WEBHOOK_URL = 'https://discordapp.com/api/webhooks/1479957368979587073/ErJKs0AtwDGEo60Ba5JtsVnTUR2vCiXFhCHyGAuyY3ZlqCj0HEKroZ-GwHNEFQ02AOyQ'
